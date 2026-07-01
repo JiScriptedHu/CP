@@ -1,4 +1,4 @@
-// https://codeforces.com/contest/2065/problem/B
+// https://codeforces.com/contest/2241/problem/A
 
 // 30-06-2026
 #include <bits/stdc++.h>
